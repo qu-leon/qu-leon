@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leon Qu
-- 👀 I’m interested in machine learning & data science.
+- 👀 I’m interested in machine learning & NLP.
 - 🌱 I’m currently learning AI and cloud-based services.
 - 💞️ I’m looking to collaborate on projects involving natural language processing.
 - 📫 Find me on LinkedIn @leonqu
