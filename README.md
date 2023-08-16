@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leon Qu
-- 👀 I’m interested in machine learning & NLP.
-- 🌱 I’m currently learning AI and cloud-based architecture.
-- 💞️ I’m looking to collaborate on projects involving natural language processing.
+- 👀 I’m interested in machine learning & cloud computing.
+- 🌱 I’m currently learning cloud-based architectures.
+- 💞️ I’m looking to collaborate on projects involving natural language processing and AI.
 - 📫 Find me on LinkedIn @leonqu
 
 <!---
